@@ -19,7 +19,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the MAGIC parents and carers network. Working in Monmouthshire and the surrounding areas to support
   children and young people with disabilities and their families.
-minimal_mistakes_skin: "plum"
+minimal_mistakes_skin: "default"
 search: true
 
 # Build settings
