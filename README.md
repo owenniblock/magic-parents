@@ -1,3 +1,7 @@
+---
+layout: splash
+---
+
 ## MAGIC
 
 Parents and carers network working in Monmouthshire and the surrounding areas to support children and young people with disabilities and their families
