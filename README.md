@@ -1,12 +1,3 @@
----
-header:
-  overlay_image: /assets/images/hands-background.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  actions:
-    - label: "About Us"
-      url: "https://example.com"
----
-
 ## MAGIC
 
 Parents and carers network working in Monmouthshire and the surrounding areas to support children and young people with disabilities and their families
