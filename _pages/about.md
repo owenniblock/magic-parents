@@ -1,8 +1,18 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+MAGIC - working in Monmouthshire and the surrounding areas to support children and young people with disabilities and their families.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+We are an independent parent-led group running social groups, activities and events throughout the year and providing a support network for our parents and carers across the South Wales area.
+
+Please use our Facebook page to ask questions, network and find out about forthcoming activities and meetings.
+
+## Our History
+MAGIC was started in August 2013 to meet a need for support and activities for families of children with additional needs etc.
+
+- Meeting social isolation.
+- Encouraging whole family activities.
+- Supporting siblings.
+- Providing respite activities and workshops for parents and carers.
