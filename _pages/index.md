@@ -26,13 +26,13 @@ feature_row:
     url: "/membership/"
     btn_class: "btn--primary"
     btn_label: "Become A Member"
-  - image_path: /assets/images/hands-background.jpg
-    alt: "A child's hand on an adult's hand with brightly dressed children in the background"
-    title: "About Us"
-    excerpt: "Learn about our organisation."
-    url: "/about/"
+  - image_path: /assets/images/slinkys.jpg
+    alt: "Bright colourful slinkys"
+    title: "iScan FAQ"
+    excerpt: "iScan frequently asked questions."
+    url: "/iscan-faq/"
     btn_class: "btn--primary"
-    btn_label: "About MAGIC"      
+    btn_label: "Read the iScan FAQ"      
 ---
 
 {% include feature_row %}
