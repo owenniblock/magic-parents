@@ -18,13 +18,6 @@ feature_row:
     url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Get In Touch"
-  - image_path: /assets/images/chalks.jpg
-    alt: "colourful chalk pastels"
-    title: "Becoming a member"
-    excerpt: "How to become a member."
-    url: "/membership/"
-    btn_class: "btn--primary"
-    btn_label: "Become A Member"
   - image_path: /assets/images/slinkys.jpg
     alt: "Bright colourful slinkys"
     title: "iScan FAQ"
