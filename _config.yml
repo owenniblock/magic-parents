@@ -60,6 +60,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/groups/477529559024217/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://www.twitter.com/MAGICparents/"
 
 header:
   overlay_image: /assets/images/hands-background.jpg
