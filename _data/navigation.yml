@@ -3,7 +3,5 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Membership"
-    url: /membership/
   - title: "iScan FAQ"
     url: /iscan-faq/
