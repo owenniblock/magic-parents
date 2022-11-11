@@ -9,8 +9,7 @@ header:
     - label: "About Us"
       url: "/about/"
 excerpt: >
-  Parents and carers network working in Monmouthshire and the surrounding areas to support children and young people 
-  with disabilities and their families
+  Parent carer network, working across South Wales to support parent carers and their families.
 feature_row:
   - image_path: /assets/images/telephone.jpg
     alt: "A bright red telephone"
