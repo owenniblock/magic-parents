@@ -2,6 +2,10 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+.site-logo img {
+  max-height: 6rem;
+}
+
 #main {
   @include clearfix;
   margin-left: auto;
